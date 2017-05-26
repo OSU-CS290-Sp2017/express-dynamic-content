@@ -27,25 +27,7 @@
         <h2>Check out photos of these people:</h2>
       </div>
 
-      <div class="person-card">
-        <a href="#">Luke Skywalker</a>
-      </div>
-
-      <div class="person-card">
-        <a href="#">Beyonce</a>
-      </div>
-
-      <div class="person-card">
-        <a href="#">Albert Einstein</a>
-      </div>
-
-      <div class="person-card">
-        <a href="#">Ta-Nehisi Coates</a>
-      </div>
-
-      <div class="person-card">
-        <a href="#">Marie Curie</a>
-      </div>
+      {{people}}
 
     </main>
 
